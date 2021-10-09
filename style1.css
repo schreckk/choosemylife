@@ -1,0 +1,33 @@
+@charset "UTF-8";
+h1 {
+	text-align: center;
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	text-shadow: 10px 15px 2px black;
+	text-decoration-style: wavy;
+	font-size: 10.3em;
+	line-height: 3em;
+}
+p {
+	text-align: center;
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	text-shadow: 3px 4px 2px black;
+	text-decoration-style: wavy;
+	font-size: 2em;
+	line-height: 1em;
+
+}
+a.one {
+	display:block;
+	text-align: center;
+	color: white;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-shadow: 5px 6px 7px orange;
+	text-decoration-style: wavy;
+	font-size: 8em;
+	line-height: 1.5em;
+}
+body {
+	background-image: url("Page1Background_.jpg");
+}

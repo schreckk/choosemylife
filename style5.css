@@ -1,0 +1,29 @@
+@charset "UTF-8";
+h1 {
+	font-family: "Franklin Gothic Bold", "Arial Black", "sans-serif";
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: 6.3em;
+    text-shadow: 5px 6px 12px hotpink;
+	text-align: center;
+	line-height: 3em;
+}
+p {
+	font-family: "Franklin Gothic Bold", "Arial Black", "sans-serif";
+    font-weight: bold;
+    color: lightgrey;
+    font-size: 4.3em;
+    text-shadow: 5px 6px 12px purple;
+	text-align: center
+	
+}
+body {
+	background-image: url("Page5Background_.jpg");
+}
+img {
+	position:absolute;
+	left: 1850px;
+	top:1000px;
+}
+
+
